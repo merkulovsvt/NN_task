@@ -1,4 +1,4 @@
 .idea
-/Data
-192.168.25.105_1710930733.txt
-img.png
+*.txt
+*.png
+*.jpg
